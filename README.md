@@ -12,3 +12,4 @@ Hope you can have fun by making your personal USB hub!
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/USBhub&type=Date)](https://star-history.com/#FrankYanhanSun/USBhub&Date)
 <br>
+© 2025 Yanhan Sun (Frank).
